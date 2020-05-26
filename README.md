@@ -6,12 +6,12 @@ Cours GLO-7050 | Apprentissage machine appliqué
 
 #### Sous la supervision de:
 
-**Professeurr Brahim Chaib-draa**, Directeur du programme de baccalauréat en génie logiciel de l'Université Laval, Québec, QC, Canada,
+**Professeur Brahim Chaib-draa**, Directeur du programme de baccalauréat en génie logiciel de l'Université Laval, Québec, QC, Canada,
 [Brahim.Chaib-draa@ift.ulaval.ca](Brahim.Chaib-draa@ift.ulaval.ca)
 
 ---
 
-Télécharger les diapositives (format pdf): 
+###Télécharger les diapositives (format pdf): 
 - [Apprentissage par renforcement appliqué - Notions fondamentales - version 3.2](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v32.pdf) 
 - [Apprentissage par renforcement appliqué - Algorithmes fondamentaux - version 3.2](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DPAndRL-Algorithmes-fondamentaux-v32.pdf) 
 - Apprentissage par renforcement appliqué : Méthode approximative et DRL - à venir
