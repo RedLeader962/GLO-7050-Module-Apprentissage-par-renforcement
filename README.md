@@ -22,16 +22,16 @@ Cours GLO-7050 | Apprentissage machine appliqué
 
 <div class="row" style="display: flex;">
   <div class="column" style="flex: 33.33%; padding: 5px;">
-    <img src="images/Projet_slide_RL.png" style="width:25%">
+    <img src="images/Projet_slide_RL.png" width="100px">
   </div>
   <div class="column" style="flex: 33.33%; padding: 5px;">
-    <img src="images/Projet_slide_RL_2.png" style="width:25%">
+    <img src="images/Projet_slide_RL_2.png">
   </div>
   <div class="column" style="flex: 33.33%; padding: 5px;">
-    <img src="images/Projet_slide_RL_3.png" style="width:25%">
+    <img src="images/Projet_slide_RL_3.png">
   </div>
   <div class="column" style="flex: 33.33%; padding: 5px;">
-    <img src="images/Projet_slide_RL_4.png" style="width:25%">
+    <img src="images/Projet_slide_RL_4.png">
   </div>
 </div>
 
