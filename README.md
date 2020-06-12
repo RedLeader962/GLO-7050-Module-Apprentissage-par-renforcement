@@ -19,21 +19,6 @@ Cours GLO-7050 | Apprentissage machine appliqué
 
 ---
 
-<style>
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
 
 <div class="row">
   <div class="column" style="float: left; width: 33.33%; padding: 5px;">
