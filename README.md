@@ -21,13 +21,16 @@ Cours GLO-7050 | Apprentissage machine appliqué
 
 <div class="row">
   <div class="column">
-    <img src="images/Projet_slide_RL.png" alt="Snow" style="width:100%">
+    <img src="images/Projet_slide_RL.png" style="width:25%">
   </div>
   <div class="column">
-    <img src="images/Projet_slide_RL_2.png" alt="Forest" style="width:100%">
+    <img src="images/Projet_slide_RL_2.png" style="width:25%">
   </div>
   <div class="column">
-    <img src="images/Projet_slide_RL_3.png" alt="Mountains" style="width:100%">
+    <img src="images/Projet_slide_RL_3.png" style="width:25%">
+  </div>
+  <div class="column">
+    <img src="images/Projet_slide_RL_4.png" style="width:25%">
   </div>
 </div>
 
