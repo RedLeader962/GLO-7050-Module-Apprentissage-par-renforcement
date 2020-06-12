@@ -19,17 +19,14 @@ Cours GLO-7050 | Apprentissage machine appliqué
 
 ---
 
-<div style="alignment: center">
-<img src="images/Projet_slide_RL.png" width="700px" style="border:5px solid black">
 <p>
-    <img src="images/Projet_slide_RL_2.png" width="400px"  style="border:5px solid black">
-    <img src="images/Projet_slide_RL_3.png" width="400px" style="border:5px solid black">
+    <img src="images/Projet_slide_RL_2.png" width="450px"  style="border:5px solid black">
+    <img src="images/Projet_slide_RL_3.png" width="450px" style="border:5px solid black">
 </p>
 <p>
-    <img src="images/Projet_slide_RL_4.png" width="400px" style="border:5px solid black">
-    <img src="images/Projet_slide_RL_5.png" width="400px" style="border:5px solid black">
+    <img src="images/Projet_slide_RL_4.png" width="450px" style="border:5px solid black">
+    <img src="images/Projet_slide_RL_5.png" width="450px" style="border:5px solid black">
 </p>
-</div>
 
 
 ---
