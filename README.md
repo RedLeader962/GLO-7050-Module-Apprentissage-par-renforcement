@@ -19,7 +19,7 @@ Cours GLO-7050 | Apprentissage machine appliqué
 
 ---
 
-Pour rapporter une erreur, allez en haut de la page à l'onglet `Issues` puis cliquez `New issue` 
+<i class="fas fa-th-large"></i> Pour rapporter une erreur dans les diapositives, allez en haut de la page à l'onglet `Issues` puis cliquez `New issue` 
 
 ---
 
