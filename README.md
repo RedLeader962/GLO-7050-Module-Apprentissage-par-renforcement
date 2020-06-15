@@ -2,11 +2,11 @@
 Cours GLO-7050 | Apprentissage machine appliqué
 
 #### Diapositive par:
- **Luc Coupal**, Université Laval, Montréal, QC, Canada, [Luc.Coupal.1@uLaval.ca](Luc.Coupal.1@uLaval.ca) 
+ [**Luc Coupal**](https://redleader962.github.io), Université Laval, Montréal, QC, Canada, [Luc.Coupal.1@uLaval.ca](Luc.Coupal.1@uLaval.ca) 
 
 #### Sous la supervision de:
 
-**Professeur Brahim Chaib-draa**, Directeur du programme de baccalauréat en génie logiciel de l'Université Laval, Québec, QC, Canada,
+[**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/), Directeur du programme de baccalauréat en génie logiciel de l'Université Laval, Québec, QC, Canada,
 [Brahim.Chaib-draa@ift.ulaval.ca](Brahim.Chaib-draa@ift.ulaval.ca)
 
 ---
