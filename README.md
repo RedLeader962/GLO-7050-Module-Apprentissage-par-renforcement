@@ -19,6 +19,10 @@ Cours GLO-7050 | Apprentissage machine appliqué
 
 ---
 
+Pour rapporter une erreur, allez à l'onglet `Issues` et cliquez `New issue` 
+
+---
+
 <p>
 <img src="images/Projet_slide_RL_5.png" width="450px">
 <img src="images/Projet_slide_RL_2.png" width="450px" >
