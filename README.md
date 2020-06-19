@@ -12,8 +12,8 @@ Cours GLO-7050 | Apprentissage machine appliqué
 ---
 
 ### Télécharger les diapositives (format pdf): 
-- [Apprentissage par renforcement appliquée | Notions fondamentales (version 3.2)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v32.pdf) 
-- [Apprentissage par renforcement appliquée | Algorithmes fondamentaux (version 3.2)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DPAndRL-Algorithmes-fondamentaux-v32.pdf) 
+- [RL appliquée | Notions fondamentales (version 3.2)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v3-2.pdf) 
+- [RL appliquée | Algorithmes fondamentaux (version 3.3)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-algorithmes-fondamentaux-v3-3.pdf) 
 - Apprentissage par renforcement appliquée | Méthode approximative et DRL (à venir)
 - Apprentissage par renforcement appliquée | Considérations appliquées (à venir)
 
