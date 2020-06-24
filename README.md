@@ -24,12 +24,12 @@ Cours GLO-7050 | Apprentissage machine appliqué
 ---
 
 <p>
-<img src="images/Projet_slide_RL_5.png" width="400px">
-<img src="images/Projet_slide_RL_2.png" width="400px" >
+<img src="images/Projet_slide_RL_5.png" width="410px">
+<img src="images/Projet_slide_RL_2.png" width="410px" >
 </p>
 <p>
-<img src="images/Projet_slide_RL_4.png" width="400px">
-<img src="images/Projet_slide_RL_3.png" width="400px">
+<img src="images/Projet_slide_RL_4.png" width="410px">
+<img src="images/Projet_slide_RL_3.png" width="410px">
 </p>
 
 ![algorithmeCouvertDansLeCours](images/algorithmeCouvertDansLeCours.png) 
