@@ -1,7 +1,7 @@
-# Module sur l'apprentissage par renforcement appliquée 
+# Module sur l'apprentissage par renforcement appliqué 
 Cours GLO-7050 | Apprentissage machine appliqué
 
-#### Diapositive par:
+#### Synthèse et diapositive par:
  [**Luc Coupal**](https://redleader962.github.io), Université Laval, Montréal, QC, Canada, [Luc.Coupal.1@uLaval.ca](Luc.Coupal.1@uLaval.ca) 
 
 #### Sous la supervision de:
@@ -15,7 +15,7 @@ Cours GLO-7050 | Apprentissage machine appliqué
 - [RL appliquée | Notions fondamentales (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v3-4.pdf) 
 - [RL appliquée | Algorithmes fondamentaux (version 3.6)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-algorithmes-fondamentaux-v3-6.pdf) 
 - [RL appliquée | Deep Reinforcement Learning et méthodes approximatives (version 3.3)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DeepRL-et-methode-approximative-v3-3.pdf)
-- (à venir) RL appliquée | Considérations appliquées \[suplément\]
+- (à venir) RL appliquée | Considérations appliquées \[supplément\]
 
 ---
 
