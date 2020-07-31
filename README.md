@@ -1,11 +1,9 @@
-# Cours GLO-7050 : Apprentissage machine en pratique, Université Laval
-## Module sur l'apprentissage par renforcement appliqué 
+## Diapositive pour le module APPRENTISSAGE PAR RENFORCEMENT APPLIQUÉ
+du cours **GLO-7050 APPRENTISSAGE MACHINE EN PRATIQUE** à l'Université Laval
 
-##### Synthèse et diapositive par:
- [**Luc Coupal**](https://redleader962.github.io), Université Laval, Montréal, QC, Canada, [Luc.Coupal.1@uLaval.ca](Luc.Coupal.1@uLaval.ca) 
+**Synthèse et diapositive par:** [**Luc Coupal**](https://redleader962.github.io), Université Laval, Montréal, QC, Canada, [Luc.Coupal.1@uLaval.ca](Luc.Coupal.1@uLaval.ca) 
 
-##### Sous la supervision de:
-[**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/), Directeur du programme de baccalauréat en génie logiciel de l'Université Laval, Québec, QC, Canada,
+**Sous la supervision de:** [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/), Directeur du programme de baccalauréat en génie logiciel de l'Université Laval, Québec, QC, Canada,
 [Brahim.Chaib-draa@ift.ulaval.ca](Brahim.Chaib-draa@ift.ulaval.ca)
 
 ---
