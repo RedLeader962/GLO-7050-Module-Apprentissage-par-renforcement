@@ -7,8 +7,9 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 <p>
 <b>Synthèse et diapositive</b> du module RL par
 <a href="https://redleader962.github.io" target="blank">
-<b>Luc Coupal</b> 
+    <b>Luc Coupal</b> 
     <img src="images/layer-group-solid.svg" width="15" />
+    <!-- Icon by Font Awesome: https://fontawesome.com/icons/layer-group?style=solid -->
 </a>
 </p>
 
