@@ -3,7 +3,7 @@ du cours [**GLO-7050 APPRENTISSAGE MACHINE EN PRATIQUE**](https://www.ulaval.ca/
 par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/)
 à l'[Université Laval](https://www.fsg.ulaval.ca), Qc, Canada.
 
-**Synthèse et diapositive** du module RL par [**Luc Coupal**](https://redleader962.github.io)
+**Synthèse et diapositive** du module RL par [**Luc Coupal** <i class="fas fa-layer-group"></i>](https://redleader962.github.io)
 
 ### Télécharger les diapositives du module: 
 - [Notions fondamentales (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v3-4.pdf) 
