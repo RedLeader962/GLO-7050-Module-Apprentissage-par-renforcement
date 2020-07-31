@@ -10,7 +10,8 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 **Synthèse et diapositive** du module RL par [**Luc Coupal** <i class="fas fa-layer-group"></i>](https://redleader962.github.io)
 
 <a href="https://redleader962.github.io" target="blank">
-<b>Luc Coupal</b> <i class="fas fa-layer-group"></i>
+<b>Luc Coupal</b> 
+    <img src="images/layer-group-solid.svg" width="20" , style="filter: invert(1);"/>
 </a>
 
 
