@@ -1,9 +1,9 @@
 ## Module APPRENTISSAGE PAR RENFORCEMENT APPLIQUÉ
 du cours [**GLO-7050 APPRENTISSAGE MACHINE EN PRATIQUE**](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-7050-apprentissage-machine-en-pratique.html#renseignements) donnée à l'[Université Laval](https://www.fsg.ulaval.ca)
 
-> **Synthèse et diapositive par:** [**Luc Coupal**](https://redleader962.github.io), Université Laval, Montréal, QC, Canada, [Luc.Coupal.1@uLaval.ca](Luc.Coupal.1@uLaval.ca) 
-> 
-> **Sous la supervision de:** [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/), Directeur du programme de baccalauréat en génie logiciel de l'Université Laval, Québec, QC, Canada,
+**Synthèse et diapositive par** [**Luc Coupal**](https://redleader962.github.io), Université Laval, Montréal, QC, Canada, [Luc.Coupal.1@uLaval.ca](Luc.Coupal.1@uLaval.ca) 
+
+**Sous la supervision de** [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/), Directeur du programme de baccalauréat en génie logiciel de l'Université Laval, Québec, QC, Canada,
 [Brahim.Chaib-draa@ift.ulaval.ca](Brahim.Chaib-draa@ift.ulaval.ca)
 
 
