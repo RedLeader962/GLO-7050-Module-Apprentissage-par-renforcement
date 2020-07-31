@@ -1,3 +1,7 @@
+<head>
+    <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
+</head>
+
 ### Ressource pour le module APPRENTISSAGE PAR RENFORCEMENT APPLIQUÉ
 du cours [**GLO-7050 APPRENTISSAGE MACHINE EN PRATIQUE**](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-7050-apprentissage-machine-en-pratique.html#renseignements) donnée
 par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/)
@@ -8,6 +12,7 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 <a href="https://redleader962.github.io" target="blank">
 <b>Luc Coupal</b> <i class="fas fa-layer-group"></i>
 </a>
+
 
 ### Télécharger les diapositives du module: 
 - [Notions fondamentales (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v3-4.pdf) 
