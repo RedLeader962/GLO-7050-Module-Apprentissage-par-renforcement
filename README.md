@@ -5,6 +5,10 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 
 **Synthèse et diapositive** du module RL par [**Luc Coupal** <i class="fas fa-layer-group"></i>](https://redleader962.github.io)
 
+<a href="https://redleader962.github.io" target="blank">
+<b>Luc Coupal</b> <i class="fas fa-layer-group"></i>
+</a>
+
 ### Télécharger les diapositives du module: 
 - [Notions fondamentales (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v3-4.pdf) 
 - [Algorithmes fondamentaux (version 3.6)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-algorithmes-fondamentaux-v3-6.pdf) 
