@@ -1,18 +1,16 @@
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"  integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous">
-</head>
 
 ### Ressource pour le module APPRENTISSAGE PAR RENFORCEMENT APPLIQUÉ
 du cours [**GLO-7050 APPRENTISSAGE MACHINE EN PRATIQUE**](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-7050-apprentissage-machine-en-pratique.html#renseignements) donnée
 par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/)
 à l'[Université Laval](https://www.fsg.ulaval.ca), Qc, Canada.
 
-**Synthèse et diapositive** du module RL par [**Luc Coupal** <i class="fas fa-layer-group"></i>](https://redleader962.github.io)
-
+<p>
+<b>Synthèse et diapositive</b> du module RL par
 <a href="https://redleader962.github.io" target="blank">
 <b>Luc Coupal</b> 
     <img src="images/layer-group-solid.svg" width="15" />
 </a>
+</p>
 
 
 ### Télécharger les diapositives du module: 
