@@ -13,7 +13,7 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 
 ---
 
-Pour **rapporter une erreur** dans les diapositives, allez en haut de la page à l'onglet `Issues` puis cliquez `New issue` 
+Pour **rapporter une erreur** dans les diapositives, allez en haut de la page à l'onglet `Issues` puis cliquez le bouton vert `New issue` 
 
 ---
 
