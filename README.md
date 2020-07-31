@@ -11,7 +11,7 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 
 <a href="https://redleader962.github.io" target="blank">
 <b>Luc Coupal</b> 
-    <img src="images/layer-group-solid.svg" width="20" , style="filter: invert(1);"/>
+    <img src="images/layer-group-solid.svg" width="15" />
 </a>
 
 
