@@ -5,15 +5,15 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 
 **Synthèse et diapositive** du module RL par [**Luc Coupal**](https://redleader962.github.io)
 
-## Télécharger les diapositives: 
-- [RL appliquée | Notions fondamentales (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v3-4.pdf) 
-- [RL appliquée | Algorithmes fondamentaux (version 3.6)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-algorithmes-fondamentaux-v3-6.pdf) 
-- [RL appliquée | Deep Reinforcement Learning et méthodes approximatives (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DeepRL-et-methode-approximative-v3-4.pdf)
-- (à venir) RL appliquée | Considérations appliquées 
+## Télécharger les diapositives du module: 
+- [Notions fondamentales (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v3-4.pdf) 
+- [Algorithmes fondamentaux (version 3.6)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-algorithmes-fondamentaux-v3-6.pdf) 
+- [Deep Reinforcement Learning et méthodes approximatives (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DeepRL-et-methode-approximative-v3-4.pdf)
+- (à venir) Considérations appliquées 
 
 ---
 
-Pour **rapporter une erreur** dans les diapositives, allez en haut de la page à l'onglet `Issues` puis cliquez le bouton vert `New issue` 
+Pour **rapporter une erreur** dans les diapositives, allez en haut de la page à l'onglet `Issues` puis cliquez le bouton vert `New issue`. Précisez le nom du PDF, la page et le titre de la section/sous-section.
 
 ---
 
