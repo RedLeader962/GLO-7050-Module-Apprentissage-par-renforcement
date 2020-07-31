@@ -1,13 +1,10 @@
 ## Module APPRENTISSAGE PAR RENFORCEMENT APPLIQUÉ
-du cours [**GLO-7050 APPRENTISSAGE MACHINE EN PRATIQUE**](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-7050-apprentissage-machine-en-pratique.html#renseignements) donnée à l'[Université Laval](https://www.fsg.ulaval.ca) (Montréal, QC, Canada)
-par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/).
+du cours [**GLO-7050 APPRENTISSAGE MACHINE EN PRATIQUE**](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-7050-apprentissage-machine-en-pratique.html#renseignements) donnée à l'[Université Laval](https://www.fsg.ulaval.ca)
+par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/)
 
-**Synthèse et diapositive du module RL par** [**Luc Coupal**](https://redleader962.github.io), [Luc.Coupal.1@uLaval.ca](Luc.Coupal.1@uLaval.ca) 
+**Synthèse et diapositive** du module RL par [**Luc Coupal**](https://redleader962.github.io)
 
-[Brahim.Chaib-draa@ift.ulaval.ca](Brahim.Chaib-draa@ift.ulaval.ca)
-
-
-## Télécharger les diapositives (format pdf): 
+## Télécharger les diapositives: 
 - [RL appliquée | Notions fondamentales (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v3-4.pdf) 
 - [RL appliquée | Algorithmes fondamentaux (version 3.6)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-algorithmes-fondamentaux-v3-6.pdf) 
 - [RL appliquée | Deep Reinforcement Learning et méthodes approximatives (version 3.4)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DeepRL-et-methode-approximative-v3-4.pdf)
