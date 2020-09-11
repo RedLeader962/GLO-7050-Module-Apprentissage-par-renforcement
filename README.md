@@ -20,9 +20,8 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 - [Deep Reinforcement Learning et méthodes approximatives (version 3.5)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DeepRL-et-methode-approximative-v3-5.pdf)
 - [Considérations pratiques (version 2.1)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DRL-Considerations-pratiques-v2-1.pdf)
 
-Pour **rapporter une erreur** dans les diapositives, allez à
-[Issues](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/issues)
-puis cliquez le bouton vert `New issue`. SVP précisez le nom du PDF, la page et le titre de la section/sous-section.
+Pour **rapporter une erreur** dans les diapositives: [` New issue `](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/issues/new/choose)
+
 
 <p>
 <img src="images/Projet_slide_RL_5.png" width="410px">
