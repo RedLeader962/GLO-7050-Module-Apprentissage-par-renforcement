@@ -1,11 +1,11 @@
 
-### Ressource pour le module APPRENTISSAGE PAR RENFORCEMENT APPLIQUÉ
-du cours [**GLO-7050 APPRENTISSAGE MACHINE EN PRATIQUE**](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-7050-apprentissage-machine-en-pratique.html#renseignements) donnée
+### Ressources pour le module APPRENTISSAGE PAR RENFORCEMENT APPLIQUÉ
+du cours [**GLO-7050 APPRENTISSAGE MACHINE EN PRATIQUE**](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/glo-7050-apprentissage-machine-en-pratique.html#renseignements) donné
 par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/professeurs/brahim-chaib-draa-166/)
 à l'[Université Laval](https://www.fsg.ulaval.ca), Qc, Canada.
 
 <p>
-<b>Synthèse et diapositive</b> du module RL par
+<b>Synthèse et diapositives</b> du module RL par
 <a href="https://redleader962.github.io" target="blank">
     <b>Luc Coupal</b> 
     <img src="images/layer-group-solid.svg" width="15" />
@@ -20,7 +20,9 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 - [Deep Reinforcement Learning et méthodes approximatives (version 3.5)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DeepRL-et-methode-approximative-v3-5.pdf)
 - [Considérations pratiques (version 2.1)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DRL-Considerations-pratiques-v2-1.pdf)
 
-Pour **rapporter une erreur** dans les diapositives, allez en haut de la page à l'onglet `Issues` puis cliquez le bouton vert `New issue`. Précisez le nom du PDF, la page et le titre de la section/sous-section.
+Pour **rapporter une erreur** dans les diapositives, allez à
+[Issues · RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/issues)
+puis cliquez le bouton vert `New issue`. SVP précisez le nom du PDF, la page et le titre de la section/sous-section.
 
 <p>
 <img src="images/Projet_slide_RL_5.png" width="410px">
