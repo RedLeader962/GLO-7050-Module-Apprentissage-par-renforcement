@@ -21,7 +21,7 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 - [Considérations pratiques (version 2.1)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DRL-Considerations-pratiques-v2-1.pdf)
 
 Pour **rapporter une erreur** dans les diapositives, allez à
-[Issues · RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/issues)
+[Issues](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/issues)
 puis cliquez le bouton vert `New issue`. SVP précisez le nom du PDF, la page et le titre de la section/sous-section.
 
 <p>
