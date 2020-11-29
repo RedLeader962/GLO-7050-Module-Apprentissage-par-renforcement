@@ -17,7 +17,7 @@ par [**Professeur Brahim Chaib-draa**](https://www.fsg.ulaval.ca/departements/pr
 ### Télécharger les diapositives du module: 
 - [Notions fondamentales (version 4.0)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-Notions-fondamentales-v4-0.pdf) 
 - [Algorithmes fondamentaux (version 4.0)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/RL-algorithmes-fondamentaux-v4-0.pdf) 
-- [Deep Reinforcement Learning et méthodes approximatives (version 3.5)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DeepRL-et-methode-approximative-v3-6.pdf)
+- [Deep Reinforcement Learning et méthodes approximatives (version 3.6)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DeepRL-et-methode-approximative-v3-6.pdf)
 - [Considérations pratiques (version 2.1)](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/raw/master/DRL-Considerations-pratiques-v2-1.pdf)
 
 Pour **rapporter une erreur** dans les diapositives: [` New issue `](https://github.com/RedLeader962/GLO-7050-Module-Apprentissage-par-renforcement/issues/new/choose)
